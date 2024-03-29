@@ -1,4 +1,7 @@
 # FlappyEagle
+
+<img width="1440" alt="FlappyEagle" src="https://github.com/arjundevensharma/FlappyEagle/assets/129678257/b22f298a-cdc3-408a-82b5-f742b045a2bd">
+
 First Unity Game. 2D Flappy Bird Variant. 1711 lines of code. Last updated: March 13, 2023.
 
 ## How to Play
